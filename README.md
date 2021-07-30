@@ -2,9 +2,9 @@
 
 ### how to host your own website on [LocalHost](https://localhost:3000)
 
-Go to `main.html` and add buttons or other things you want on your website
+Go to [`main.html`](https://github.com/xFijo/html-localhost-with-css/blob/main/main.html) and add buttons or other things you want on your website
 
-Go to `style.css` and style your site how you like it
+Go to [`style.css`](https://github.com/xFijo/html-localhost-with-css/blob/main/style.css) and style your site how you like it
 
 run the code on Visual Studio Code and go to [LocalHost](https://localhost:3000)
 
